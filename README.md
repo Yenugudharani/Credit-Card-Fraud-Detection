@@ -46,7 +46,7 @@ fraud-detection/
 Installation Steps
 
 1. Clone the repo:
-git clone https://github.com/yourusername/fraud-detection.git
+git clone https://github.com/Yenugudharani/fraud-detection.git
 
 2. Move into project directory:
 cd fraud-detection
